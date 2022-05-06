@@ -3,7 +3,6 @@ print(given_input)
 
 
 #PART a
-#Use len() function to find length of string
 str_length = len(given_input)
 
 print("Length of the string is:", str_length)
